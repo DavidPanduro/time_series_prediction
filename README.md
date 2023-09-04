@@ -68,8 +68,8 @@ Aplicaremos métodos da estatística e de aprendizado de máquina:
 
   12. Conclusões.<br><br>
   
-> Mediante Métodos Estatísticos, ARIMA tem se mostrado, escolheríamos ARIMA(6,0,1).
-> Mediante Aprendizado de Máquina, MLP conseguiu bons resultados gráficamente e em termos de métricas obteve umbom MAPE, mas deveríamos prestar atenção em melhorar o MSE.<br><br>
+> **Mediante Métodos Estatísticos**, ARIMA tem se mostrado, escolheríamos ARIMA(6,0,1).<br>
+> **Mediante Aprendizado de Máquina**, MLP conseguiu bons resultados gráficamente e em termos de métricas obteve umbom MAPE, mas deveríamos prestar atenção em melhorar o MSE.<br><br>
 **Resultado Gráfico do MultiLayer Perceptron**
 ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/ffceec86-3403-4997-8b0d-5a2cef0d7033)
 <p style="text-align: center;">Fig.12. Previsção com MLP - dados de validação</p><br><br>
