@@ -9,6 +9,7 @@ A base geral conta com pouco mais de 01 mil~hao de registros. Mas inclui todas a
   02. Sales==> É a quantidade monetária total das vendas diárias. É de tipo int, mas será convertido a float.
      
 Aplicaremos métodos da estatística e de aprendizado de máquina:
+
   01. Visualização da série.<br><br>
 
   ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/803a620e-656e-47e7-84f2-e8652a8f8747)<br>
@@ -38,10 +39,19 @@ Aplicaremos métodos da estatística e de aprendizado de máquina:
   07. Modelo AUTO-ARIMA.<br><br>
 
   ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/f1e66709-d847-446c-8be5-41db149db72c) <br>
+  <p style="text-align: center;">Fig.06. Results Auto-Arima </p><br>
   Nota: O Auto-ARIMA indica que os melhores parâmetros são AR=6, MA=1 e Dif=0 (já que os dados são estacionários).<br><br>
 
   08. Modelo ARIMA.<br><br>
+
+  ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/900ed9db-5298-4171-a494-4eca01db2787)<br>
+  <p style="text-align: center;">Fig.07. ARIMA </p><br>
+
   09. Modelo ARMA.<br><br>
+
+  ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/ead42195-71fa-4760-b123-737392ce16e5)
+  <p style="text-align: center;">Fig.08. ARMA </p><br>
+
   10. Comparação dos Modelos.<br><br>
   11. Modelo MultiLayer Perceptron (MLP).<br><br>
   12. Modelo Support Vector Regression (SVR).<br><br>
