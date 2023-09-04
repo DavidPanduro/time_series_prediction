@@ -26,7 +26,7 @@ Aplicaremos métodos da estatística e de aprendizado de máquina:
   ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/58a22bc9-4156-436d-9d11-87f986387377)
 <p style="text-align: center;">Fig.05. Teste Augmented Dickey-Fuller </p><br>
 
-  Nota: O teste de estacionaridade retornou que **os dados são estacionários**, sendo assim não precisaremos de suavização por diferenciação, de modo que, d=0. 
+  Nota: O teste de estacionaridade retornou que **os dados são estacionários**, sendo assim não precisaremos de suavização por diferenciação, de modo que, d=0. <br><br>
   06. Train/Test Split.<br><br>
   07. Modelo AUTO-ARIMA.<br><br>
   08. Modelo ARIMA.<br><br>
