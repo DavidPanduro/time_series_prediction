@@ -58,6 +58,13 @@ Aplicaremos métodos da estatística e de aprendizado de máquina:
 <p style="text-align: center;">Fig.09. Arima x Arma </p><br>
   Nota: O modelo Arima apresentou maior performance. Deve-se a que usa os mesmos parámetros facilitados pelo Auto-Arima. Já o modelo Arma está usando as primeiras combinações possíveis de AR e MA. <br><br>
   11. Modelo MultiLayer Perceptron (MLP).<br><br>
+
+  ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/2ec0ba47-c662-4541-a7ef-f3964a2e6b31)
+<p style="text-align: center;">Fig.10. Parametros do MLP </p><br><br>
+
+![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/27e6f41e-ee61-4209-8bc8-43042824ea63)
+<p style="text-align: center;">Fig.11. Previsção com MLP </p><br><br>
+
   12. Modelo Support Vector Regression (SVR).<br><br>
   13. Conclusões.<br><br>
 
