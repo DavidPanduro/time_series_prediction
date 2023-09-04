@@ -17,6 +17,7 @@ Aplicaremos métodos da estatística e de aprendizado de máquina:
   ![image](https://github.com/DavidPanduro/time_series_prediction/blob/master/acp_sales.jpg)
   <p style="text-align: center;">Fig.03. Autocorrelation of Sales Dataset</p><br>
   04. Visualização da Autocorrelação Parcial da série.<br><br>  
+  
   ![image](https://github.com/DavidPanduro/time_series_prediction/blob/master/pacf_sales.jpg).
   <p style="text-align: center;">Fig.04. Autocorrelation Partial of Sales Dataset </p><br>
   05. Testes de Estacionaridade. Augmented Dickey-Fuller (ADF).<br><br>
