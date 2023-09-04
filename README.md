@@ -75,8 +75,8 @@ Aplicaremos métodos da estatística e de aprendizado de máquina:
   Nota: O Valor de MAPE chega ser um valor promissorio e alentador. Pelo contrário, o MSE ficou um valor muito grande, isso explica que em alguns pontos o modelo está errando demais, o que está penalizando o MSE do modelo.<br><br>
 
 **_próximos passos_** Como próximos passos posso sugerir: 
-> Análise dos dados para identificar os resíduos significantes que acabam afetando demais o modelo.
-> Tratamento de outliers via z-score ou IQR.
-> Executar mais um ciclo da modalgem.
+> Análise dos dados para identificar os resíduos significantes que acabam afetando demais o modelo.<br>
+> Tratamento de outliers via z-score ou IQR.<br>
+> Executar mais um ciclo da modalgem.<br>
 
 # time_series_prediction
