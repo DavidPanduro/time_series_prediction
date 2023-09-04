@@ -1,4 +1,3 @@
-# time_series_prediction
 # Predição de Séries Temporais de Vendas
 
 Por David Panduro
@@ -25,3 +24,7 @@ Aplicaremos métodos da estatística e de aprendizado de máquina:
   13. Conclusões.
 
 Finalmente, apresentamos as seguestões dos **_próximos passos_** a seguir, segundo os resultados observados durante o processo da modelagem.
+
+# time_series_prediction
+
+# time_series_prediction
