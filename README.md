@@ -15,10 +15,10 @@ Aplicaremos métodos da estatística e de aprendizado de máquina:
   02. Decomposição da série.<br><br>  
   03. Visualização da Autocorrelação da série.<br><br>
   ![image](https://github.com/DavidPanduro/time_series_prediction/blob/master/acp_sales.jpg)
-  <p style="text-align: center;">Fig.03. _Autocorrelation of Sales Dataset_ </p><br>
+  <p style="text-align: center;">Fig.03. Autocorrelation of Sales Dataset</p><br>
   04. Visualização da Autocorrelação Parcial da série.<br><br>  
   ![image](https://github.com/DavidPanduro/time_series_prediction/blob/master/pacf_sales.jpg).
-  <p style="text-align: center;">Fig.04. _Autocorrelation Partial of Sales Dataset_</p><br>
+  <p style="text-align: center;">Fig.04. Autocorrelation Partial of Sales Dataset </p><br>
   05. Testes de Estacionaridade. Augmented Dickey-Fuller (ADF).<br><br>
   06. Train/Test Split.<br><br>
   07. Modelo AUTO-ARIMA.<br><br>
