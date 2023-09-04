@@ -11,6 +11,9 @@ A base geral conta com pouco mais de 01 mil~hao de registros. Mas inclui todas a
 Aplicaremos métodos da estatística e de aprendizado de máquina:
   01. Visualização da série.
   02. Decomposição da série.
+  ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/025fb3a8-8609-4fe9-8b72-8522afbf20ce)
+  Fig.02. _Seasonal Decomposition of Sales Dataset_
+
   03. Visualização da Autocorrelação da série.
   04. Visualização da Autocorrelação Parcial da série.
   05. Testes de Estacionaridade. Augmented Dickey-Fuller (ADF).
