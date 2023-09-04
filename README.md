@@ -34,7 +34,7 @@ Aplicaremos métodos da estatística e de aprendizado de máquina:
   Nota: O teste de estacionaridade retornou que **os dados são estacionários**, sendo assim não precisaremos de suavização por diferenciação, de modo que, d=0. <br><br>
   06. Train/Test Split.<br><br>
   > Para os métodos estatísticos, a divisão ficou assim: O tamanho da data de treinamento ficou estabelecido em **751 registros** e os dados de teste ficaram em **30 registros**.<br>
-  > Para aprendizado de máquina, a divisão ficoua ssim: | Particao de Treinamento: 0 375 | Particao de Validação: 375 564 | Particao de Teste: 562 751 |<br><br>
+  > Para aprendizado de máquina, a divisão ficoua ssim: <br>| Particao de Treinamento: 0 375 |<br>| Particao de Validação: 375 564 |<br>| Particao de Teste: 562 751 |<br><br>
   07. Modelo AUTO-ARIMA.<br><br>
 
   ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/f1e66709-d847-446c-8be5-41db149db72c) <br>
