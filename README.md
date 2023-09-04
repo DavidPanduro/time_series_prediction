@@ -10,10 +10,14 @@ A base geral conta com pouco mais de 01 mil~hao de registros. Mas inclui todas a
      
 Aplicaremos métodos da estatística e de aprendizado de máquina:
   01. Visualização da série.<br><br>
+
+  ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/803a620e-656e-47e7-84f2-e8652a8f8747)<br>
+  <p style="text-align: center;">Fig.01. Dataset Sales - Filter Store 01</p><br><br>
+
   02. Decomposição da série.<br><br>  
 
   ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/025fb3a8-8609-4fe9-8b72-8522afbf20ce)  <br>
-  <p style="text-align: center;">Fig.02. _Seasonal Decomposition of Sales Dataset_</p><br>
+  <p style="text-align: center;">Fig.02. Seasonal Decomposition of Sales Dataset</p><br><br>
   03. Visualização da Autocorrelação da série.<br><br>
   
   ![image](https://github.com/DavidPanduro/time_series_prediction/blob/master/acp_sales.jpg)<br>
