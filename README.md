@@ -65,8 +65,7 @@ Aplicaremos métodos da estatística e de aprendizado de máquina:
 ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/27e6f41e-ee61-4209-8bc8-43042824ea63)
 <p style="text-align: center;">Fig.11. Previsção com MLP - dados de treinamento</p><br><br>
 
-  12. Modelo Support Vector Regression (SVR).<br><br>
-  13. Conclusões.<br><br>
+  12. Conclusões.<br><br>
 
 ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/ffceec86-3403-4997-8b0d-5a2cef0d7033)
 <p style="text-align: center;">Fig.12. Previsção com MLP - dados de validação</p><br><br>
@@ -75,6 +74,9 @@ Aplicaremos métodos da estatística e de aprendizado de máquina:
 
   Nota: O Valor de MAPE chega ser um valor promissorio e alentador. Pelo contrário, o MSE ficou um valor muito grande, isso explica que em alguns pontos o modelo está errando demais, o que está penalizando o MSE do modelo.<br><br>
 
-Finalmente, apresentamos as seguestões dos **_próximos passos_** a seguir, segundo os resultados observados durante o processo da modelagem.
+**_próximos passos_** Como próximos passos posso sugerir: 
+> Análise dos dados para identificar os resíduos significantes que acabam afetando demais o modelo.
+> Tratamento de outliers via z-score ou IQR.
+> Executar mais um ciclo da modalgem.
 
 # time_series_prediction
