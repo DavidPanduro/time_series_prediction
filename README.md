@@ -1,6 +1,6 @@
 # Predição de Séries Temporais de Vendas
 
-Por David Panduro
+Por David Panduro :computer:
 
 ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/025fb3a8-8609-4fe9-8b72-8522afbf20ce)  
   <p style="text-align: center;">Fig.02. _Seasonal Decomposition of Sales Dataset_</p><br>
