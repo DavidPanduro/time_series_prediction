@@ -1,5 +1,4 @@
-# Predição de Séries Temporais de Vendas
-![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/6f2df7d2-f51a-4840-b434-daed30ca1833)
+![image](https://github.com/DavidPanduro/time_series_prediction/blob/master/WhatsApp%20Image%202023-09-04%20at%2020.37.17.jpeg)
 
 Por David Panduro :computer:
 
