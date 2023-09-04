@@ -70,8 +70,8 @@ Aplicaremos métodos da estatística e de aprendizado de máquina:
 
 ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/ffceec86-3403-4997-8b0d-5a2cef0d7033)
 <p style="text-align: center;">Fig.12. Previsção com MLP - dados de validação</p><br><br>
-  **MAPE: 9,5%**<br>
-  **MSE: 353082**<br>
+  ** MAPE: 9,5% ** <br>
+  ** MSE: 353082 ** <br>
 
   Nota: O Valor de MAPE chega ser um valor promissorio e alentador. Pelo contrário, o MSE ficou um valor muito grande, isso explica que em alguns pontos o modelo está errando demais, o que está penalizando o MSE do modelo.<br><br>
 
