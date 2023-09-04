@@ -14,10 +14,10 @@ Aplicaremos métodos da estatística e de aprendizado de máquina:
   ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/025fb3a8-8609-4fe9-8b72-8522afbf20ce)  
   <p style="text-align: center;">Fig.02. _Seasonal Decomposition of Sales Dataset_</p><br>
   03. Visualização da Autocorrelação da série.<br><br>
-  ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/cdda9431-78ff-447a-8c10-0c7e8e3ccb0e)
+  ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/cdda9431-78ff-447a-8c10-0c7e8e3ccb0e) 
   <p style="text-align: center;">Fig.03. _Autocorrelation_</p><br>
   04. Visualização da Autocorrelação Parcial da série.<br><br>
-  ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/a29a87c1-b8ca-40c0-b23f-ab876ed0175e)
+  ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/aa89d6c7-ab68-4be0-b6e3-30afa2794f48) 
   <p style="text-align: center;">Fig.04. _Autocorrelation Partial_</p><br>
   05. Testes de Estacionaridade. Augmented Dickey-Fuller (ADF).<br><br>
   06. Train/Test Split.<br><br>
