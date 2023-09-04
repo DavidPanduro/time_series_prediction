@@ -15,7 +15,7 @@ Aplicaremos métodos da estatística e de aprendizado de máquina:
   02. Decomposição da série.<br><br>  
   03. Visualização da Autocorrelação da série.<br><br>
   ![image](https://github.com/DavidPanduro/time_series_prediction/blob/master/acp_sales.jpg)
-  <p style="text-align: center;">Fig.03. _Autocorrelation of Sales Dataset_</p><br>
+  <p style="text-align: center;">Fig.03. _Autocorrelation of Sales Dataset_ </p><br>
   04. Visualização da Autocorrelação Parcial da série.<br><br>  
   ![image](https://github.com/DavidPanduro/time_series_prediction/blob/master/pacf_sales.jpg).
   <p style="text-align: center;">Fig.04. _Autocorrelation Partial of Sales Dataset_</p><br>
