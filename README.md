@@ -26,5 +26,3 @@ Aplicaremos métodos da estatística e de aprendizado de máquina:
 Finalmente, apresentamos as seguestões dos **_próximos passos_** a seguir, segundo os resultados observados durante o processo da modelagem.
 
 # time_series_prediction
-
-# time_series_prediction
