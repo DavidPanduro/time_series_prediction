@@ -13,7 +13,7 @@ Aplicaremos métodos da estatística e de aprendizado de máquina:
   02. Decomposição da série.<br><br>  
 
   ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/025fb3a8-8609-4fe9-8b72-8522afbf20ce)  
-  <p style="text-align: center;">Fig.01. _Seasonal Decomposition of Sales Dataset_</p><br>
+  <p style="text-align: center;">Fig.02. _Seasonal Decomposition of Sales Dataset_</p><br>
   03. Visualização da Autocorrelação da série.<br><br>
   ![image](https://github.com/DavidPanduro/time_series_prediction/blob/master/acp_sales.jpg)
   <p style="text-align: center;">Fig.03. Autocorrelation of Sales Dataset</p><br>
