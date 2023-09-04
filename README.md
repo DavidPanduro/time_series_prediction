@@ -12,26 +12,30 @@ Aplicaremos métodos da estatística e de aprendizado de máquina:
   01. Visualização da série.<br><br>
   02. Decomposição da série.<br><br>  
 
-  ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/025fb3a8-8609-4fe9-8b72-8522afbf20ce)  
+  ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/025fb3a8-8609-4fe9-8b72-8522afbf20ce)  <br>
   <p style="text-align: center;">Fig.02. _Seasonal Decomposition of Sales Dataset_</p><br>
   03. Visualização da Autocorrelação da série.<br><br>
   
-  ![image](https://github.com/DavidPanduro/time_series_prediction/blob/master/acp_sales.jpg)
+  ![image](https://github.com/DavidPanduro/time_series_prediction/blob/master/acp_sales.jpg)<br>
   <p style="text-align: center;">Fig.03. Autocorrelation of Sales Dataset</p><br>
   04. Visualização da Autocorrelação Parcial da série.<br><br>  
   
-  ![image](https://github.com/DavidPanduro/time_series_prediction/blob/master/pacf_sales.jpg).
+  ![image](https://github.com/DavidPanduro/time_series_prediction/blob/master/pacf_sales.jpg).<br>
   <p style="text-align: center;">Fig.04. Autocorrelation Partial of Sales Dataset </p><br>
   05. Testes de Estacionaridade. Augmented Dickey-Fuller (ADF).<br><br>
   
-  ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/58a22bc9-4156-436d-9d11-87f986387377)
+  ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/58a22bc9-4156-436d-9d11-87f986387377)<br>
   <p style="text-align: center;">Fig.05. Teste Augmented Dickey-Fuller </p><br>
 
   Nota: O teste de estacionaridade retornou que **os dados são estacionários**, sendo assim não precisaremos de suavização por diferenciação, de modo que, d=0. <br><br>
   06. Train/Test Split.<br><br>
-  > Para os métodos estatísticos, a divisão ficou assim: O tamanho da data de treinamento ficou estabelecido em **751 registros** e os dados de teste ficaram em **30 registros**.
-  > Para aprendizado de máquina, a divisão ficoua ssim: | Particao de Treinamento: 0 375 | Particao de Validação: 375 564 | Particao de Teste: 562 751 |
+  > Para os métodos estatísticos, a divisão ficou assim: O tamanho da data de treinamento ficou estabelecido em **751 registros** e os dados de teste ficaram em **30 registros**.<br>
+  > Para aprendizado de máquina, a divisão ficoua ssim: | Particao de Treinamento: 0 375 | Particao de Validação: 375 564 | Particao de Teste: 562 751 |<br><br>
   07. Modelo AUTO-ARIMA.<br><br>
+
+  ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/f1e66709-d847-446c-8be5-41db149db72c) <br>
+  Nota: O Auto-ARIMA indica que os melhores parâmetros são AR=6, MA=1 e Dif=0 (já que os dados são estacionários).<br><br>
+
   08. Modelo ARIMA.<br><br>
   09. Modelo ARMA.<br><br>
   10. Comparação dos Modelos.<br><br>
