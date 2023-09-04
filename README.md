@@ -14,6 +14,8 @@ Aplicaremos métodos da estatística e de aprendizado de máquina:
   01. Visualização da série.<br><br>
   02. Decomposição da série.<br><br>  
   03. Visualização da Autocorrelação da série.<br><br>
+  ![image]([https://github.com/DavidPanduro/time_series_prediction/assets/452](https://github.com/DavidPanduro/time_series_prediction/blob/master/acp_sales.jpg)
+  <p style="text-align: center;">Fig.03. _Autocorrelation of Sales Dataset_</p><br>
   04. Visualização da Autocorrelação Parcial da série.<br><br>  
   05. Testes de Estacionaridade. Augmented Dickey-Fuller (ADF).<br><br>
   06. Train/Test Split.<br><br>
