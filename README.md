@@ -65,9 +65,9 @@ Aplicaremos métodos da estatística e de aprendizado de máquina: Visando aplic
   Nota: O modelo Arima apresentou maior performance. Deve-se a que usa os mesmos parámetros facilitados pelo Auto-Arima. Já o modelo Arma está usando as primeiras combinações possíveis de AR e MA. <br><br>
   11. Análise dos Resíduos<br><br>
 
-  ![image](![image](https://github.com/DavidPanduro/time_series_sales_prediction/assets/45201867/4636f78c-3e75-47e1-b04b-f8aa14e49bb0)
-<p style="text-align: center;">Fig.11. Arima x Arma </p><br>
-  Nota: O modelo Arima apresentou maior performance. Deve-se a que usa os mesmos parámetros facilitados pelo Auto-Arima. Já o modelo Arma está usando as primeiras combinações possíveis de AR e MA. <br><br>
+  ![image](https://github.com/DavidPanduro/time_series_sales_prediction/assets/45201867/4636f78c-3e75-47e1-b04b-f8aa14e49bb0)<br>
+  <p style="text-align: center;">Fig.11. Arima x Arma </p><br><br>
+  Nota: Tem pontos saindo do Intervalo de confiança, o que indica que ainda podemos modelar a série. <br><br>
   12. Modelo MultiLayer Perceptron (MLP).<br><br>
 
   ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/2ec0ba47-c662-4541-a7ef-f3964a2e6b31)
