@@ -11,7 +11,9 @@ A base geral conta com pouco mais de 01 milhão de registros. Mas inclui todas a
 ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/736b52ec-0b0c-48ec-bdcd-3363ad6a43da)
 <p style="text-align: center;">Fig.01. Dataset Sales </p><br><br>
      
-Aplicaremos métodos da estatística e de aprendizado de máquina:
+Aplicaremos métodos da estatística e de aprendizado de máquina: Visando aplicar Auto-Arima, Arima, Arma. Assim como, MultiLayer Perceptron.
+
+**Os resultados** obtidos em cada parte do processo, seguen a continuação: 
 
   01. Visualização da série.<br><br>
 
