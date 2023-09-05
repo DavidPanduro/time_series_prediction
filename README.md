@@ -22,7 +22,7 @@ Aplicaremos métodos da estatística e de aprendizado de máquina: Visando aplic
 
   02. Decomposição da série.<br><br>  
 
-  ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/025fb3a8-8609-4fe9-8b72-8522afbf20ce)  <br>
+  ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/025fb3a8-8609-4fe9-8b72-8522afbf20ce) <br>
   <p style="text-align: center;">Fig.03. Seasonal Decomposition of Sales Dataset</p><br><br>
   03. Visualização da Autocorrelação da série.<br><br>
   
