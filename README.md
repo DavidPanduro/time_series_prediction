@@ -1,5 +1,6 @@
 # Time Series Sales
-
+![image](https://github.com/DavidPanduro/time_series_prediction/blob/master/img/fundo_wall.jpeg)
+<p style="text-align: center;">Fig.01. Dataset Sales </p><br><br>
 Por David Panduro :computer:
 
 Analisaremos os **dados de vendas** de uma das lojas de uma grande **rede de supermercados**, a fim de fazer predições das vendas dos **próximos 30 dias**. 
