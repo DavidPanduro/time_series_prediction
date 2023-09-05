@@ -1,4 +1,4 @@
-![image](https://github.com/DavidPanduro/time_series_prediction/blob/master/fundo_wall.jpeg)
+# Time Series Sales
 
 Por David Panduro :computer:
 
