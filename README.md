@@ -63,15 +63,20 @@ Aplicaremos métodos da estatística e de aprendizado de máquina: Visando aplic
   ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/d30f5ca4-00d5-4826-a455-82a3be308f93)
 <p style="text-align: center;">Fig.10. Arima x Arma </p><br>
   Nota: O modelo Arima apresentou maior performance. Deve-se a que usa os mesmos parámetros facilitados pelo Auto-Arima. Já o modelo Arma está usando as primeiras combinações possíveis de AR e MA. <br><br>
-  11. Modelo MultiLayer Perceptron (MLP).<br><br>
+  11. Análise dos Resíduos<br><br>
+
+  ![image](![image](https://github.com/DavidPanduro/time_series_sales_prediction/assets/45201867/4636f78c-3e75-47e1-b04b-f8aa14e49bb0)
+<p style="text-align: center;">Fig.11. Arima x Arma </p><br>
+  Nota: O modelo Arima apresentou maior performance. Deve-se a que usa os mesmos parámetros facilitados pelo Auto-Arima. Já o modelo Arma está usando as primeiras combinações possíveis de AR e MA. <br><br>
+  12. Modelo MultiLayer Perceptron (MLP).<br><br>
 
   ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/2ec0ba47-c662-4541-a7ef-f3964a2e6b31)
-<p style="text-align: center;">Fig.11. Parametros do MLP </p><br><br>
+<p style="text-align: center;">Fig.12. Parametros do MLP </p><br><br>
 
 ![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/27e6f41e-ee61-4209-8bc8-43042824ea63)
-<p style="text-align: center;">Fig.12. Previsção com MLP - dados de treinamento</p><br><br>
+<p style="text-align: center;">Fig.13. Previsção com MLP - dados de treinamento</p><br><br>
 
-  12. Conclusões.<br><br>
+  13. Conclusões.<br><br>
   
 > **Mediante Métodos Estatísticos**, ARIMA tem se mostrado, escolheríamos ARIMA(6,0,1).<br>
 > **Mediante Aprendizado de Máquina**, MLP conseguiu bons resultados gráficamente e em termos de métricas obteve umbom MAPE, mas deveríamos prestar atenção em melhorar o MSE.<br><br>
