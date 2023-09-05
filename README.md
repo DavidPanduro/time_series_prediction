@@ -1,7 +1,7 @@
 # Time Series Sales
 ![image](https://github.com/DavidPanduro/time_series_prediction/blob/master/img/fundo_wall.jpeg)
 <p style="text-align: center;">Fig.01. Dataset Sales </p><br><br>
-Por David Panduro :computer:
+Por David Panduro :computer:<br>
 
 Analisaremos os **dados de vendas** de uma das lojas de uma grande **rede de supermercados**, a fim de fazer predições das vendas dos **próximos 30 dias**. 
 A base geral conta com pouco mais de 01 milhão de registros. Mas inclui todas as lojas da rede de supermercados. Neste caso, por motivos de praticidade, filtraremos uma (01) loja para aplicar os conceitos de séries temporais nele. A base de amostra final fica com 942 registros, com as seguintes colunas:
