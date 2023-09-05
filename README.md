@@ -26,11 +26,11 @@ Aplicaremos métodos da estatística e de aprendizado de máquina: Visando aplic
   <p style="text-align: center;">Fig.03. Seasonal Decomposition of Sales Dataset</p><br><br>
   03. Visualização da Autocorrelação da série.<br><br>
   
-  ![image](https://github.com/DavidPanduro/time_series_prediction/blob/master/acp_sales.jpg)<br>
+  ![image](https://github.com/DavidPanduro/time_series_prediction/blob/master/img/acp_sales.jpg)<br>
   <p style="text-align: center;">Fig.04. Autocorrelation of Sales Dataset</p><br>
   04. Visualização da Autocorrelação Parcial da série.<br><br>  
   
-  ![image](https://github.com/DavidPanduro/time_series_prediction/blob/master/pacf_sales.jpg).<br>
+  ![image](https://github.com/DavidPanduro/time_series_prediction/blob/master/img/pacf_sales.jpg).<br>
   <p style="text-align: center;">Fig.05. Autocorrelation Partial of Sales Dataset </p><br>
   05. Testes de Estacionaridade. Augmented Dickey-Fuller (ADF).<br><br>
   
