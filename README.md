@@ -1,4 +1,4 @@
-# Time Series Sales
+# Predição de Séries Temporais de Vendas!
 ![image](https://github.com/DavidPanduro/time_series_prediction/blob/master/img/fundo_wall.jpeg)
 <p style="text-align: center;">Fig.01. Dataset Sales </p><br>
 Por David Panduro :computer:<br><br>
