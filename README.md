@@ -1,20 +1,20 @@
 # Predição de Séries Temporais de Vendas
-Por David Panduro :computer:<br>
+Por David Panduro :computer:<br><br>
 ![image](https://github.com/DavidPanduro/time_series_sales_prediction/assets/45201867/44c25336-5bde-4127-baca-a3f4f924b62f)<br><br>
 
 
-Analisaremos os **dados de vendas** de uma das lojas de uma grande **rede de supermercados**, a fim de fazer predições das vendas dos **próximos 30 dias**. 
-A base geral conta com pouco mais de 01 milhão de registros. Mas inclui todas as lojas da rede de supermercados. Neste caso, por motivos de praticidade, filtraremos uma (01) loja para aplicar os conceitos de séries temporais nele. A base de amostra final fica com 942 registros, com as seguintes colunas:
+Analisaremos os **dados de vendas** de uma das lojas de uma grande **rede de supermercados**, a fim de fazer predições das vendas dos **próximos 30 dias**. <br>
+A base geral conta com pouco mais de 01 milhão de registros. Mas inclui todas as lojas da rede de supermercados. Neste caso, por motivos de praticidade, filtraremos uma (01) loja para aplicar os conceitos de séries temporais nele. A base de amostra final fica com 942 registros, com as seguintes colunas:<br><br>
 
-  01. Date ==> É a data do evento. Está na granuladidade diária. É de tipo object, mas terá que ser convertido a índice.
-  02. Sales==> É a quantidade monetária total das vendas diárias. É de tipo int, mas será convertido a float.
+  01. Date ==> É a data do evento. Está na granuladidade diária. É de tipo object, mas terá que ser convertido a índice.<br>
+  02. Sales==> É a quantidade monetária total das vendas diárias. É de tipo int, mas será convertido a float.<br><br>
 
-![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/736b52ec-0b0c-48ec-bdcd-3363ad6a43da)
+![image](https://github.com/DavidPanduro/time_series_prediction/assets/45201867/736b52ec-0b0c-48ec-bdcd-3363ad6a43da)<br>
 <p style="text-align: center;">Fig.01. Dataset Sales </p><br><br>
      
 Aplicaremos métodos da estatística e de aprendizado de máquina: Visando aplicar Auto-Arima, Arima, Arma. Assim como, MultiLayer Perceptron.<br><br>
 
-**Os resultados** obtidos em cada parte do processo, seguen a continuação: 
+**Os resultados** obtidos em cada parte do processo, seguen a continuação: <br><br>
 
   01. Visualização da série.<br><br>
 
