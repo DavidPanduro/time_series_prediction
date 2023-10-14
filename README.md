@@ -1,6 +1,6 @@
 # Predição de Séries Temporais de Vendas!
 Por David Panduro :computer:<br>
-![image](https://github.com/DavidPanduro/time_series_sales_prediction/assets/45201867/b2ef8d9a-0dea-432d-bd13-497097de4cdc)<br><br>
+![image](https://github.com/DavidPanduro/time_series_sales_prediction/assets/45201867/44c25336-5bde-4127-baca-a3f4f924b62f)<br><br>
 
 
 Analisaremos os **dados de vendas** de uma das lojas de uma grande **rede de supermercados**, a fim de fazer predições das vendas dos **próximos 30 dias**. 
