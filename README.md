@@ -1,4 +1,4 @@
-# Predição de Séries Temporais de Vendas!
+# Predição de Séries Temporais de Vendas
 Por David Panduro :computer:<br>
 ![image](https://github.com/DavidPanduro/time_series_sales_prediction/assets/45201867/44c25336-5bde-4127-baca-a3f4f924b62f)<br><br>
 
